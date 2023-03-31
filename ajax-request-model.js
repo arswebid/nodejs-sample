@@ -1,4 +1,4 @@
-const http = require('http');
+const http = require('http'); 
 
 http.get('http://example.com/api/data', (res) => {
   let data = '';
